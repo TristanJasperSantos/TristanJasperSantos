@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TristanJasperSantos
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React and Tailwind
+- 🌱 I’m currently learning React native
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can email me at tristan4566@gmail.com
 
