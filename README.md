@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TristanJasperSantos
 - 👀 I’m interested in Web and mobile Development
-- 🌱 I’m currently learning React native
+- 🌱 I’m currently learning NextJS
 - 📫 You can email me at tristan4566@gmail.com
 
 <!---
